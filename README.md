@@ -1,4 +1,4 @@
-# express-calculator-app
+# Express-Calculator-App
 
 Springboard Software Engineering Track 32.1: Intro to Express.js
 
